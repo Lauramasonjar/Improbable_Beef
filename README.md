@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-For this project we need to create interactive dashboard to demonstrate Belly Button Biodiversity. So that we can identify the top 10 bacterial species of belly button and that way we can identify improbable species of bacteria to manufacture Synthetic Beef.
+For this project we need to create an interactive dashboard to demonstrate Belly Button Biodiversity. The dashboared will allow us to identify the top 10 bacterial species of belly buttons and identify improbable species of bacteria to manufacture Synthetic Beef.
 
 ## Purpose
 
-- Visualize the data for better understanding to draw some conclusions as researchers and data analysts.
+- To visualize the data for better understanding and to draw some conclusions as researchers and data analysts.
 - The purpose of this research is to **gather, identify and analyze the biological data of individuals’ navels**.
 - The research holds data of 153 individuals and their: 
-  -	Unique and anonyms ID.
+  -	Unique and anonymous ID.
   -	Demographic information.
   -	Belly button scrubbing frequency.
   -	Belly button biological footprint.
@@ -21,28 +21,17 @@ For this project we need to create interactive dashboard to demonstrate Belly Bu
 - Create a Gauge Chart
 - Customize the Dashboard
 
-The individual can find information by **selecting unique ID from a drop-down menu** and explore data by deep dive in their own results or compare the results to other individuals. **This research is also public and easily accessible**, so anyone can learn more about belly button biodiversity and explore this fascinating field. 
+The individual can find information by **selecting a unique ID from a drop-down menu** and explore the data by deep diving in their own results or compare the results to other individuals. **This research is also public and easily accessible**, so anyone can learn more about belly button biodiversity and explore this fascinating field. 
 
-<br>
-<br>
-<p align="center">
- <b>Belly Button Biodiversity Interactive Dashboard:</b> https://snehajoshi11.github.io/plotly_deploy/ 
-</p>
-<br>
 
-<p align="center">
-<img src="Images/Belly_button_DD.png" width="60%" height="60%">
-</p>
+ ![Improbable_Beef](https://github.com/Lauramasonjar/Improbable_Beef/blob/main/images/Belly_button_DD.png)
 
-<p align ="center">
-<i>Figure 1: Dashboard Preview</i>
-</p>
 
 ## Resources 
 
 - **JavaScript, Plotly.js**
-    - Advantage of **JavaScript** and **Plotly.js** library is that there is no need of additional programs to installed on their computers in order to *“run the code” *.
-    - JavaScript enables to create visualizations that are attractive, accessible, and interactive.
+    - Advantages of the **JavaScript** and **Plotly.js** library is that there is no need of additional programs to install on a computer to *“run the code” *.
+    - JavaScript to create visualizations that are attractive, accessible, and interactive.
     - The table is built by inserting **JavaScript** and **Plotly** into HTML page [charts.js](charts.js).
     
 - **Data**
